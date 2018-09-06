@@ -5,6 +5,7 @@ const _ = require(`lodash`);
 const cheerio = require(`cheerio`);
 const slash = require(`slash`);
 const deepMap = require('deep-map');
+const polyfill = require('babel-polyfill');
 
 // If the image is relative (not hosted elsewhere)
 // 1. Find the image file
