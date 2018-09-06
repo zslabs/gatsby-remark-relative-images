@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zslabs/gatsby-remark-relative-images.git"
+    "url": "git+https://github.com/zslabs/gatsby-remark-relative-images-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/zslabs/gatsby-remark-relative-images/issues"
+    "url": "https://github.com/zslabs/gatsby-remark-relative-images-v2/issues"
   },
-  "homepage": "https://github.com/zslabs/gatsby-remark-relative-images#readme"
+  "homepage": "https://github.com/zslabs/gatsby-remark-relative-images-v2#readme"
 }
